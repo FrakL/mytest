@@ -26,5 +26,10 @@ public class LoginBean {
 	return "admin".equals(this.userName) &&
 	"admin".equals(this.password);
 	}
+	@Override
+	public String toString() {
+		return "LoginBean [userName=" + userName + ", password=" + password + "]";
+	}
 
+	
 }
