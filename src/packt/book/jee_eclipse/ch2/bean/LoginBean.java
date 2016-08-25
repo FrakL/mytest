@@ -31,5 +31,5 @@ public class LoginBean {
 		return "LoginBean [userName=" + userName + ", password=" + password + "]";
 	}
 
-	
+	//new command
 }
