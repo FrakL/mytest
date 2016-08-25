@@ -32,4 +32,5 @@ public class LoginBean {
 	}
 
 	//new command
+	//changed
 }
